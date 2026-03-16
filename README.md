@@ -22,11 +22,34 @@
 
 ---
 
+### `> connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rxym0nd)
+
+</div>
+
+---
+
 ### `> tech_stack`
 
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=cs,python,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### `> trophies`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rxym0nd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -42,6 +65,68 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxym0nd&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
+### `> summary_cards`
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rxym0nd&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxym0nd&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rxym0nd&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxym0nd&theme=tokyonight&utcOffset=3"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxym0nd&theme=tokyonight"/>
+</div>
+
+---
+
+### `> activity_graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxym0nd&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+### `> pinned_projects`
+
+<!-- Go to socialify.git.ci, generate cards for your repos, paste the image URLs below -->
+<!-- Example: -->
+<!-- ![Repo Card](https://socialify.git.ci/rxym0nd/YOUR_REPO/image?theme=Dark&language=1&forks=1&stargazers=1) -->
+
+---
+
+### `> coding_time` *(complete WakaTime setup first)*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### `> space_shooter` *(complete space shooter setup first)*
+
+<!-- Replace this comment after running the space shooter GitHub Action: -->
+<!-- ![space shooter](https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-space-shooter.gif) -->
+
+---
+
+### `> contribution_snake` *(complete snake setup first)*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
+<!-- BLOG POSTS — uncomment when you start writing -->
+<!-- ### `> latest_posts` -->
+<!-- START:blog-post-workflow -->
+<!-- END:blog-post-workflow -->
 
 ---
 
