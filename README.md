@@ -91,45 +91,6 @@
 
 ---
 
-### `> pinned_projects`
-
-<!-- Go to socialify.git.ci, generate cards for your repos, paste the image URLs below -->
-<!-- Example: -->
-<!-- ![Repo Card](https://socialify.git.ci/rxym0nd/YOUR_REPO/image?theme=Dark&language=1&forks=1&stargazers=1) -->
-
----
-
-### `> coding_time` *(complete WakaTime setup first)*
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-### `> space_shooter` *(complete space shooter setup first)*
-
-<!-- Replace this comment after running the space shooter GitHub Action: -->
-<!-- ![space shooter](https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-space-shooter.gif) -->
-
----
-
-### `> contribution_snake` *(complete snake setup first)*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rxym0nd/rxym0nd/output/github-contribution-grid-snake.svg"/>
-</picture>
-
----
-
-<!-- BLOG POSTS — uncomment when you start writing -->
-<!-- ### `> latest_posts` -->
-<!-- START:blog-post-workflow -->
-<!-- END:blog-post-workflow -->
-
----
-
 <div align="center">
   <i>"The market gives you signals. The code executes them."</i>
 </div>
