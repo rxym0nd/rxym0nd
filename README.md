@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&color=639922&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Raymond;Algorithmic+Trader+%26+Developer;Building+Smart+Money+Bots;Turning+Market+Structure+into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&color=639922&center=true&vCenter=true&width=650&lines=Hey+there+%F0%9F%91%8B+I'm+Raymond;Software+Engineer+%26+Developer;Building+Fun+Little+Projects;Having+With+Code)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rxym0nd&color=639922&style=flat-square&label=Profile+Views)
 
@@ -28,19 +28,6 @@
 
 </div>
 
-
-### `> summary_cards`
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rxym0nd&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rxym0nd&theme=tokyonight&utcOffset=3"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rxym0nd&theme=tokyonight"/>
-</div>
-
----
 
 ### `> activity_graph`
 
